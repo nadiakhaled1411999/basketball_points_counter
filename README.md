@@ -1,16 +1,11 @@
 # basketball_points_counter
 
-A new Flutter project.
+ Developed a Basketball Points Counter App using Flutter and Bloc for state management. 
 
-## Getting Started
+Incorporated buttons to increment points for two teams (Team A and Team B) with 1, 2, or 3 points.
 
-This project is a starting point for a Flutter application.
+Implemented a reset button to reset the points for both teams. 
 
-A few resources to get you started if this is your first Flutter project:
+Designed a responsive layout with a grid-based system for buttons and a clean UI to display points.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Utilized Cubit to manage state and dynamically update the points as the buttons are pressed.
